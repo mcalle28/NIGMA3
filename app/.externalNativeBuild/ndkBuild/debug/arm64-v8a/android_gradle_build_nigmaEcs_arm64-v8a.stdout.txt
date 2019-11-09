@@ -1,0 +1,1 @@
+make: `C:/Users/Usuario/Desktop/NIGMA3/app/build/intermediates/ndkBuild/debug/obj/local/arm64-v8a/libnigmaEcs.so' is up to date.
